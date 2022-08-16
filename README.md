@@ -1,6 +1,6 @@
 # Bellabeat Case Study
-### Ryan Park
-### August 16, 2022
+#### Ryan Park
+#### August 16, 2022
 
 ## Introduction and Background
 **Bellabeats** is a high-tech manufacturer of health-focused products designed for women. Bellabeats has created an app, alongside several smart devices, in order to help users understand their habits and assist them in making healthy decisions. The company is expanding quickly and has the potential to be a larger player in the global smart device market.
@@ -696,6 +696,7 @@ plot_ly(pie_data, labels = ~activity, values = ~minutes, type = 'pie',
          xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
          yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
 ```
+![image](https://user-images.githubusercontent.com/111303903/184936986-d56a30d6-20bd-4e27-a192-86e3c072ef4a.png)
 
 ```{=html}
 <div id="htmlwidget-3ca40e36842e019c2f26" style="width:672px;height:480px;" class="plotly html-widget"></div>
