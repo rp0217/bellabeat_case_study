@@ -1,11 +1,6 @@
----
-title: "Bellabeats Case Study"
-author: "Ryan Park"
-date: "August 16th, 2022"
-output: 
-  html_document:
-    keep_md: true
----
+# Bellabeat Case Study
+### Ryan Park
+### August 16, 2022
 
 ## Introduction and Background
 **Bellabeats** is a high-tech manufacturer of health-focused products designed for women. Bellabeats has created an app, alongside several smart devices, in order to help users understand their habits and assist them in making healthy decisions. The company is expanding quickly and has the potential to be a larger player in the global smart device market.
